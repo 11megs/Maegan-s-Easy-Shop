@@ -1,0 +1,38 @@
+header {
+  background-color: lightgray;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+header nav ul {
+list-style: none;
+padding: 0;
+}
+
+header nav ul li {
+display: inline;
+margin-right: 150px;
+}
+
+header nav ul li a {
+color: black;
+text-decoration: none;
+}
+
+main table tr td a {
+  color: black;
+  padding: 20;
+  text-align: center;
+  width: 20;
+  height: 20;
+}
+
+footer {
+  background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+}
